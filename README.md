@@ -2,8 +2,7 @@
 
 1- La Vidéo explicative :
 
-
-https://github.com/KhaoulaElHattabi/e-banking-front-back/assets/92638641/ea5f3765-1aac-4a72-9961-3f221c74a115
+https://github.com/KhaoulaElHattabi/e-banking-front-back/assets/92638641/40db95da-125d-4c34-a1e2-db88441ce2dd
 
 2- Les interfaces du projet :
 
